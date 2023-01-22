@@ -1,0 +1,41 @@
+// Anotações importantes
+
+
+// ---- Javascript
+
+// document.body.style.background = '#ffff' 
+// document.querySelector('form').style.background = 'white'
+// document.querySelector('header').style.background = 'blue' 
+// document.querySelector('div.days').style.background = 'yellow'
+// document.querySelector('input').click()
+// document.querySelector('.yuRUbf a').click()
+// new Date().toLocaleDateString('pt-br').slice(0, -5)
+// addEventListener = se espera um evento, funcao
+
+//  const data = {
+//    run: ['01-04', '01-02','01-06','01-10','01-08','01-09','01-12','01-11'],
+//  }
+//  nlwSetup.setData(data)
+//  nlwSetup.load()
+
+// change, evento de mudança 
+// todo evento dispara uma funcao
+// stringfy, converte para string
+/// local storage, uma maneira de guardar dados no navegador
+// || = OU 
+// {} = objeto vazio
+
+
+// ---- CSS
+
+/* padding é a largura de dentro da caixa para fora.*/
+/* display á disposicao de elementos dentro de um elemento 
+/* display flex, á disposicao de elementos dentro de um elemento 
+/* Align items center, alinha os elementos do display flex ao centro/*
+/* justify content space beetween, 
+/* line-height, altura da linha 
+/* pega toda a largura do setor, e adiciona espaço entre os elementos
+/* gap, espaço entre elementos dentro do display flex 
+/* appearece: none, -webkit-appearence ; resetar a estilizacao do input
+/* pseudo-selector : menos que um seletor e faz alterações a mais como hover, etc.
+/* fit-content, encaixe o conteudo na largura. 
