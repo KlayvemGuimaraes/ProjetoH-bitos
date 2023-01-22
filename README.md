@@ -28,7 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um projeto feito para o melhor aproveitamento e produtividade das
-suas tarefas diárias, auxiliando você a organizar melhor o seu dia=dia. 
+suas tarefas diárias, auxiliando você a organizar melhor o seu dia a dia. 
+
+- [Clique aqui para acessar](https://klayvemguimaraes.github.io/ProjetoHabitos)
 
 ## 🔖 Layout
 
